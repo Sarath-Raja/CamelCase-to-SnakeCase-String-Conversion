@@ -1,0 +1,16 @@
+{
+  "name": "CamelCase-to-SnakeCase-String-Conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "liveserver": "^0.1.20"
+  }
+}
